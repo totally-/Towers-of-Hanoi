@@ -1,5 +1,3 @@
-package edu.metrostate.ics240.p2.towers;
-
 import static org.junit.Assert.*;
 
 import java.util.*;
